@@ -1,7 +1,6 @@
 ## Configuration
 
-Change `users` dict variable as you need
-You will probably want to change `ALLOWED_EXTENSIONS` too.
+Change `users` dict variable as you need. You will probably want to change `ALLOWED_EXTENSIONS` too.
 
 ## Usage
 
